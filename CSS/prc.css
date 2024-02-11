@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: red;
+    text-align: center;
+    border-radius: 40px;
+    height: 300px;
+    width: 600px;
+    margin: 40px;
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-right: 300px;
+    padding-top: 100px;
+    font-size: 30px;
+
+
+
+}

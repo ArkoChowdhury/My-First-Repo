@@ -1,0 +1,11 @@
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+
+}
+
+h1 {
+    justify-items: center;
+}

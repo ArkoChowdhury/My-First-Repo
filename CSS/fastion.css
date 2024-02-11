@@ -1,0 +1,14 @@
+h1 {
+    font-family: cursive;
+    color: rgba(88, 168, 18, 0.813);
+    background-color: yellow;
+    text-align: center;
+    border: 20px solid blue;
+    border-radius: 40px;
+    height: 400px;
+    width: 800px;
+    font-size: 80px;
+    margin-top: 100px;
+    margin-left: 300px;
+    padding-top: 100px;
+}
